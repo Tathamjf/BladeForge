@@ -1,0 +1,7 @@
+:root {
+  --bg-primary: #0d0d0d;
+  --bg-secondary: #1a1a1a;
+  --text-primary: #f5f5f5;
+  --accent: #b91c1c; /* vermelho sangue, combina com o tema */
+  --border: #333;
+}

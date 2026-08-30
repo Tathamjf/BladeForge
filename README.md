@@ -1,2 +1,30 @@
-# BladeForge
-Plataforma de catalogação e gerenciamento de coleções de espadas, cadastre, organize e visualize seu acervo com specs técnicas, CRUD em React
+# ⚔️ BladeForge
+
+Plataforma de catalogação de espadas — cadastre, organize e visualize sua coleção com specs técnicas, em um tema dark.
+
+## Funcionalidades
+
+- Cadastrar espada (nome, categoria, aço, peso, comprimento, foto, descrição)
+- Visualizar coleção em galeria com busca e filtro por categoria
+- Editar dados de uma espada
+- Remover espada da coleção
+
+## Tecnologias
+
+React (Vite) · CSS Modules · Lucide React · localStorage
+
+## Como rodar
+
+```bash
+git clone https://github.com/Tathamjf/bladeforge.git
+cd bladeforge
+npm install
+npm run dev
+```
+
+## Status
+
+🚧 Em desenvolvimento
+
+---
+Projeto de portfólio por [Agatha](https://github.com/Tathamjf)
