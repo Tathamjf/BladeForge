@@ -1,6 +1,6 @@
 # ⚔️ BladeForge
 
-Plataforma de catalogação de espadas — cadastre, organize e visualize sua coleção com specs técnicas, em um tema dark.
+Plataforma de catalogação de espadas, cadastre, organize e visualize sua coleção com specs técnicas.
 
 ## Funcionalidades
 
